@@ -10,7 +10,7 @@ This repository contains a notebook 'hwk4-task2-fire-perimeter-Ramirez.ipynb' an
   width="800"
   >
   <figcaption>
-"Firefighters attack the Thomas Fire's north flank with backfires as they fight a massive wildfire north of Los Angeles, near Ojai, California on Dec. 9, 2017." Associated Press and Phil Helsel image by Gene Blevins / Reuters file from [nbcnews](https://www.nbcnews.com/news/us-news/california-s-massive-thomas-fire-sparked-power-lines-fire-investigators-n983011) 
+Firefighters attack the Thomas Fire's north flank with backfires as they fight a massive wildfire north of Los Angeles, near Ojai, California on Dec. 9, 2017. Gene Blevins / Reuters file from [nbcnews](https://www.nbcnews.com/news/us-news/california-s-massive-thomas-fire-sparked-power-lines-fire-investigators-n983011) 
   </figcaption>
 </p>
 </figure>
