@@ -6,7 +6,7 @@ This repository contains a notebook 'hwk4-task2-fire-perimeter-Ramirez.ipynb' an
 <figure>
 <p align="center">
 <img 
-  src="/images/thomas_fires_nbcnews_Blevins" 
+  src="/images/thomas_fires_nbcnews_Blevins.webp" 
   width="800"
   >
   <figcaption>
