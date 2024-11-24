@@ -37,11 +37,13 @@ This project uses fire perimeter data from the [California Fire Perimeters datas
 
 ```
 eds220-hwk4
-│   README.md
-|   hwk4-task2-fire-perimeter-YOURLASTNAME.ipynb
-│   hwk4-task2-false-color-YOURLASTNAME.ipynb
-|   .gitignore
-│
+├── README.md
+├── hwk4-task2-fire-perimeter-Ramirez.ipynb
+├── hwk4-task2-false-color-Ramirez.ipynb
+├── .gitignore
+├── LICENSE
+├── images
+|   ├── thomas_fire_nbcnews_Blevins.jpg
 └───data
     │   thomas-fire-boundary-file
 ```
