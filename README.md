@@ -18,10 +18,15 @@ This repository contains a notebook 'hwk4-task2-false-color-Ramirez.ipynb' analy
 
 ## Highlights
 
+Notebook (fire-perimeter)
 - Data read in with requests, zipfile, and os
 - Data exploration with geopandas
 - Looked at crs type
 - Selected for specific parameter and saved new shapefile
+Notebook (false_color)
+- Eplored rgb and false color imagery
+- Fixed outliers with robust
+- Mapped Thomas fire with false color imagery
 
 ## Data
 
