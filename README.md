@@ -45,5 +45,5 @@ eds220-hwk4
 ├── images
 |   ├── thomas_fire_nbcnews_Blevins.jpg
 └───data
-    │   thomas-fire-boundary-file
+    │   Thomas_fire_perimeter.shp
 ```
