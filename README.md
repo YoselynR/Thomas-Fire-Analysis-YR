@@ -25,11 +25,13 @@ This repository contains a notebook 'hwk4-task2-false-color-Ramirez.ipynb' analy
 
 ## Data
 
-Some of the data for this analysis is housed in this repository and can be accessed, the simplified collection of bands was used locally. 
+Some of the data for this analysis is housed in this repository and can be accessed, the Landsat C2 L2 dataset offers cloud-optimized geospatial data for a variety of use cases. The simplified collection of bands was used locally, the dataset includes fire perimeter boundaries for wildfires in California.
 
 ## References
 
+This project uses data from the [Landsat C2 L2 dataset](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2) provided by the [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/). 
 
+This project uses fire perimeter data from the [California Fire Perimeters dataset](https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436), available on [data.gov](https://data.gov). 
 
 ## Repository organization
 
