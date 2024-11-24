@@ -18,14 +18,18 @@ This repository contains a notebook 'hwk4-task2-false-color-Ramirez.ipynb' analy
 
 ## Highlights
 
--
--
--
--
+- Data read in with requests, zipfile, and os
+- Data exploration with geopandas
+- Looked at crs type
+- Selected for specific parameter and saved new shapefile
 
 ## Data
 
+Some of the data for this analysis is housed in this repository and can be accessed, the simplified collection of bands was used locally. 
+
 ## References
+
+
 
 ## Repository organization
 
