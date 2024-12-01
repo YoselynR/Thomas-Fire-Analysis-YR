@@ -14,7 +14,7 @@ Firefighters attack the Thomas Fire's north flank with backfires as they fight a
   </figcaption>
 </p>
 </figure>
-This repository contains a notebook 'hwk4-task2-false-color-Ramirez.ipynb' analyzing true color data and joining together the fire perimeter for the Thomas fire hwk4-task2-fire-perimeter-Ramirez.ipynb' to visualize on a map. 
+This repository contains a notebook 'hwk4-task2-false-color-Ramirez.ipynb' analyzing true color data and joining together the fire perimeter for the Thomas fire from 'hwk4-task2-fire-perimeter-Ramirez.ipynb' to visualize on a map. 
 
 ## Highlights
 
