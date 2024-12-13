@@ -1,4 +1,4 @@
-# Visualizing fire scars through false color
+# Thomas Fire Analysis - Visualizing fire scars through false color - Air Quality Index
 *This is a final project for UCSB's MEDS program EDS 220 class.*
 
 ## About
