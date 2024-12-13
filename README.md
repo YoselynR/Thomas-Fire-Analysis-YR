@@ -5,7 +5,7 @@
 
 This repository contains 3 notebooks.
 
-1. This repository contains a notebook 'fire-perimeter-Ramirez.ipynb' analyzing geographic data about fire perimeters in CA and selecting for the Thomas fire that occurred in 2017 in Montecito, CA. 
+**1** This repository contains a notebook 'fire-perimeter-Ramirez.ipynb' analyzing geographic data about fire perimeters in CA and selecting for the Thomas fire that occurred in 2017 in Montecito, CA. 
 <figure>
 <p align="center">
 <img 
@@ -17,9 +17,8 @@ Firefighters attack the Thomas Fire's north flank with backfires as they fight a
   </figcaption>
 </p>
 </figure>
-2. This repository contains a notebook 'false-color-Ramirez.ipynb' analyzing true color data and joining together the fire perimeter for the Thomas fire from 'fire-perimeter-Ramirez.ipynb' to visualize on a map. 
-
-3. This repository contains a notebook 'aqi-Ramirez.ipynb' analyzing the air quality index during the Thomas Fire  plotted to compare daily and 5 day average for the years 2017-2018. 
+**2** This repository contains a notebook 'false-color-Ramirez.ipynb' analyzing true color data and joining together the fire perimeter for the Thomas fire from 'fire-perimeter-Ramirez.ipynb' to visualize on a map. 
+**3** This repository contains a notebook 'aqi-Ramirez.ipynb' analyzing the air quality index during the Thomas Fire  plotted to compare daily and 5 day average for the years 2017-2018. 
 
 ## Highlights
 
