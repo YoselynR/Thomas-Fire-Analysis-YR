@@ -1,8 +1,8 @@
 # Visualizing fire scars through false color
-*This is a homework assignment for UCSB's MEDS program EDS 220 class.*
+*This is a final project for UCSB's MEDS program EDS 220 class.*
 
 ## About
-This repository contains a notebook 'hwk4-task2-fire-perimeter-Ramirez.ipynb' analyzing geographic data about fire perimeters in CA and selecting for the Thomas fire that occurred in 2017 in Montecito, CA. 
+This repository contains a notebook 'fire-perimeter-Ramirez.ipynb' analyzing geographic data about fire perimeters in CA and selecting for the Thomas fire that occurred in 2017 in Montecito, CA. 
 <figure>
 <p align="center">
 <img 
@@ -14,7 +14,9 @@ Firefighters attack the Thomas Fire's north flank with backfires as they fight a
   </figcaption>
 </p>
 </figure>
-This repository contains a notebook 'hwk4-task2-false-color-Ramirez.ipynb' analyzing true color data and joining together the fire perimeter for the Thomas fire from 'hwk4-task2-fire-perimeter-Ramirez.ipynb' to visualize on a map. 
+This repository contains a notebook 'false-color-Ramirez.ipynb' analyzing true color data and joining together the fire perimeter for the Thomas fire from 'fire-perimeter-Ramirez.ipynb' to visualize on a map. 
+
+This repository contains a notebook 'aqi-Ramirez.ipynb' analyzing the air quality index during the Thomas Fire  plotted to compare daily and 5 day average for the years 2017-2018. 
 
 ## Highlights
 
@@ -29,7 +31,7 @@ Notebook (fire-perimeter and/or false-color)
 
 ## Data
 
-Some of the data for this analysis is housed in this repository and can be accessed, the Landsat C2 L2 dataset offers cloud-optimized geospatial data for a variety of use cases. The simplified collection of bands was used locally, the dataset includes fire perimeter boundaries for wildfires in California.
+Some of the data for this analysis is housed in this repository and can be accessed, the Landsat C2 L2 dataset offers cloud-optimized geospatial data for a variety of use cases. The simplified collection of bands was used locally, the dataset includes fire perimeter boundaries for wildfires in California. 
 
 ## References
 
@@ -41,17 +43,24 @@ This project uses fire perimeter data from the [California Fire Perimeters datas
 
 U.S. Government. (n.d.). California fire perimeters (ALL) [Data set]. Data.gov. Retrieved November 23, 2024, from https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436
 
+This data uses aqi data from [Air Quality Index (AQI)](https://www.airnow.gov/aqi/aqi-basics/), available on [US Environmental Protection Agency](https://www.epa.gov).
+
+U.S. Environmental Protection Agency. (n.d.). Air quality index (AQI) basics. AirNow. Retrieved December 12, 2024, from https://www.airnow.gov/aqi/aqi-basics/
+
 ## Repository organization
 
 ```
 eds220-hwk4
 ├── README.md
-├── hwk4-task2-fire-perimeter-Ramirez.ipynb
-├── hwk4-task2-false-color-Ramirez.ipynb
+├── fire-perimeter-Ramirez.ipynb
+├── false-color-Ramirez.ipynb
+├── aqi-Ramirez.ipynb
 ├── .gitignore
 ├── LICENSE
 ├── images
 |   ├── thomas_fire_nbcnews_Blevins.jpg
 └───data
-    │   Thomas_fire_perimeter.shp
+    ├──   Thomas_fire_perimeter.shp
+    ├──   daily_aqi_by_county_2017.csv
+    ├──   daily_aqi_by_county_2018.csv
 ```
