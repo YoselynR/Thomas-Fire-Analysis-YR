@@ -16,6 +16,7 @@ Firefighters attack the Thomas Fire's north flank with backfires as they fight a
 </figure>
 This repository contains a notebook 'false-color-Ramirez.ipynb' analyzing true color data and joining together the fire perimeter for the Thomas fire from 'fire-perimeter-Ramirez.ipynb' to visualize on a map. 
 
+
 This repository contains a notebook 'aqi-Ramirez.ipynb' analyzing the air quality index during the Thomas Fire  plotted to compare daily and 5 day average for the years 2017-2018. 
 
 ## Highlights
@@ -25,9 +26,12 @@ Notebook (fire-perimeter and/or false-color)
 - Data exploration with geopandas
 - Looked at crs type
 - Selected for specific parameter and saved new shapefile
-- Eplored rgb and false color imagery
+- Explored rgb and false color imagery
 - Fixed outliers with robust
 - Mapped Thomas fire with false color imagery
+- Combined datasets with concat
+- Set and saved a rolling window
+- Plotted aqi from epa for Thomas Fire
 
 ## Data
 
